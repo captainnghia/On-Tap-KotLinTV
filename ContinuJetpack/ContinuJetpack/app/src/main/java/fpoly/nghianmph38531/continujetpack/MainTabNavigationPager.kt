@@ -1,4 +1,4 @@
-/*package fpoly.nghianmph38531.continujetpack
+package fpoly.nghianmph38531.continujetpack/*package fpoly.nghianmph38531.continujetpack
 
 import android.os.Bundle
 import android.util.Log
